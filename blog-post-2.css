@@ -1,0 +1,36 @@
+.blog-post-content {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
+
+.blog-post-content h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.blog-post-content img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.blog-post-content p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+.blog-post-content ol {
+    margin-left: 20px;
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #eee;
+    color: #333;
+}

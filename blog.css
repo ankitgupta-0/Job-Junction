@@ -1,0 +1,74 @@
+.blog-section {
+    margin: 20px auto;
+    max-width: 1000px;
+}
+
+.blog-post {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
+
+.blog-post img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.blog-post h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.blog-post p {
+    margin-bottom: 20px;
+}
+
+.read-more-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* ... Rest of the CSS code ... */
+
+.blog-post-content {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
+
+.blog-post-content h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.blog-post-content img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.blog-post-content p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+.blog-post-content ol {
+    margin-left: 20px;
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #eee;
+    color: #333;
+}
